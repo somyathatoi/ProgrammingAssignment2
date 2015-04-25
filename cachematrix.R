@@ -38,5 +38,3 @@ cacheSolve <- function(x, ...) {
   inv_x
 
 }
-
-##The programme ends here
